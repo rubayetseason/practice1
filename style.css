@@ -1,0 +1,49 @@
+span {
+    color: tomato;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.title1 {
+    font-size: 45px;
+    margin: 20px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    color: white;
+    padding: 12px 29px;
+    border-radius: 30px;
+    box-shadow: 2px 1px 10px rgb(226, 155, 62);
+    margin-left: 15px;
+    font-family: 'Mukta', sans-serif;
+}
+
+div img {
+    width: 72%;
+}
+
+.flex {
+    display: flex;
+}
+
+.width {
+    width: 50%;
+}
+
+.skip {
+    padding: 30px;
+    margin-left: 10px;
+    padding-top: 50px;
+}
+
+#top-para {
+    margin-top: 25px;
+    margin-bottom: 49px;
+    margin-left: 15px;
+    /* font-family: 'Nunito Sans', sans-serif; */
+    font-family: 'Quicksand', sans-serif;
+}
