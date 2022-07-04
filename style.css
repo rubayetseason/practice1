@@ -63,12 +63,14 @@ body {
     margin-right: 172px;
     padding-left: 100px;
     margin-bottom: 40px;
-}
+    font-family: 'Quicksand', sans-serif;
 }
 
+
+
 #about {
-    margin-left: 110px;
-    margin-top: 95px;
+    margin-left: 100px;
+    margin-top: 60px;
 }
 
 #btn2 {
