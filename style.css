@@ -142,3 +142,19 @@ body {
 .cen {
     text-align: center;
 }
+
+.bg {
+    background-color: rgb(235, 219, 219);
+    width: 520px;
+    margin-left: 385px;
+    margin-top: 100px;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.boxp {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.value {
+    font-family: 'Rubik', sans-serif;
+}
