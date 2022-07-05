@@ -144,11 +144,12 @@ body {
 }
 
 .bg {
-    background-color: rgb(235, 219, 219);
-    width: 520px;
-    margin-left: 385px;
+    background-color: rgb(255, 255, 255);
+    width: 670px;
+    margin-left: 295px;
     margin-top: 100px;
     box-shadow: 1px 1px 10px grey;
+    border-radius: 10px;
 }
 
 .boxp {
@@ -157,4 +158,10 @@ body {
 
 .value {
     font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+.spacee {
+    padding: 14px;
+    margin-left: 33px;
 }
