@@ -1,4 +1,4 @@
-span {
+.org {
     color: tomato;
 }
 
@@ -164,4 +164,24 @@ body {
 .spacee {
     padding: 14px;
     margin-left: 33px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+#white {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom: 40px;
+}
+
+#gre {
+    color: grey;
+}
+
+#spa {
+    margin-top: 50px;
+    padding-top: 40px;
 }
